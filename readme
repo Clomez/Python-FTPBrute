@@ -1,0 +1,5 @@
+Usage: ./PyFTP [ip] [bruteforcetxt]
+
+try every line on bruteforce.txt as a password
+
+Can also be used to brutefoce username
